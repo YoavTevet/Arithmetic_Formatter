@@ -1,6 +1,6 @@
 
 
-def arithmetic_arranger(problems, solution=False):
+def arrange_nicely(problems, solution=False):
 
   arranged_problems = ""
 
